@@ -25,7 +25,7 @@ On-page SEO optimization list.
 - [ ] Claim your brand name on as many social networking sites as possible. [Namechk](https://namechk.com/)
 - [ ] Use an SEO Audit Tool to double-check everything. [Seo Audit links](https://www.clickminded.com/seo-check-site-analysis/)
 
-## Resources
+## Credits and references
 
 - [Clickminded](https://www.clickminded.com/seo-checklist/)
 
